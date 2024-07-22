@@ -1,0 +1,2 @@
+[14-Mar-2019 08:55:10 UTC] PHP Notice:  Undefined variable: files in /home/muskanforall/public_html/media/admin/tiny_mce/plugins/openmanager/php/ajax.php on line 37
+[14-Mar-2019 08:55:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/muskanforall/public_html/media/admin/tiny_mce/plugins/openmanager/php/ajax.php on line 37
